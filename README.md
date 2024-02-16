@@ -29,5 +29,7 @@ Program yang diberikan adalah sebuah aplikasi sederhana yang memungkinkan penggu
 
 ## Screenshots
 
-![Run Code](image.png)
-![Result](image-1.png)
+1. Run in Java
+   ![Run Code](image.png)
+2. Result with Java
+   ![Result](image-1.png)
