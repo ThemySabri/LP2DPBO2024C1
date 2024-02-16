@@ -33,3 +33,5 @@ Program yang diberikan adalah sebuah aplikasi sederhana yang memungkinkan penggu
    ![Run Code](image.png)
 2. Result with Java
    ![Result](image-1.png)
+3. Coba push gambar
+   ![random](image-2.png)
