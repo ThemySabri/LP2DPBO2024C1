@@ -6,6 +6,10 @@ Bismillah
 Saya Themy Sabri Syuhada dengan NIM 2203903. Demi keberkahan-Nya, saya berjanji mengerjakan latihan praktikum 1 DPBO dengan jujur dan tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 Aamiin.
 
+## Struktur Class
+
+![Struktur class](<Diagram Class LP2.jpg>)
+
 ## Deskripsi Program
 
 Program yang diberikan adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk memasukkan detail produk pakaian (Shirt) dan menampilkan data produk dalam format tabel yang dinamis. Program ini ditulis dalam bahasa pemrograman Java dan menggunakan konsep Object-Oriented Programming (OOP), terutama konsep Multi-level Inheritance.
@@ -33,5 +37,3 @@ Program yang diberikan adalah sebuah aplikasi sederhana yang memungkinkan penggu
    ![Run Code](image.png)
 2. Result with Java
    ![Result](image-1.png)
-3. Coba push gambar
-   ![random](image-2.png)
