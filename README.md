@@ -24,16 +24,22 @@ Program yang diberikan adalah sebuah aplikasi sederhana yang memungkinkan penggu
 
 1. Pengguna menjalankan program.
 2. Program meminta pengguna untuk memasukkan detail produk pakaian (Shirt) melalui input dari keyboard.
-3. Pengguna diminta untuk memasukkan detail produk sebanyak tiga kali.
+3. Pengguna diminta untuk memasukkan detail produk sebanyak item yang ingin dimasukan user.
 4. Setiap kali detail produk dimasukkan, program membuat objek "Shirt" berdasarkan input tersebut dan menyimpannya dalam ArrayList.
 5. Setelah semua produk dimasukkan, program menentukan lebar kolom header tabel sesuai dengan panjang kata terpanjang dalam setiap kolom.
 6. Program menampilkan header tabel dengan lebar kolom yang disesuaikan, diikuti oleh data produk dalam format tabel dengan lebar kolom yang disesuaikan.
-7. Program menampilkan garis pembatas akhir tabel.
-8. Program selesai.
+7. Program selesai.
 
 ## Screenshots
 
-1. Run in Java
+### Java, Python, C++
+
+1. Compile and run
    ![Run Code](image.png)
-2. Result with Java
+2. Result
    ![Result](image-1.png)
+
+### PHP
+
+1. Result
+   ![Result PHP](image-3.png)
