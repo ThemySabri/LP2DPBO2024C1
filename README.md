@@ -8,7 +8,7 @@ Aamiin.
 
 ## Struktur Class
 
-![Struktur class](<LP2 DPBO.jpg>)
+![Struktur class](image-4.png)
 
 ## Deskripsi Program
 
